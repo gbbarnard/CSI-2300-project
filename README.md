@@ -1,7 +1,7 @@
 # CSI-2300-project
 Project Name: Tic_Tac_Toe
 
-Team_name: TheBeginers
+Team_name: TheBeginners
 
 Members: Gavin Barnard
 
