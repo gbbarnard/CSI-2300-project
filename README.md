@@ -1,4 +1,4 @@
-# CSI-2300-project
+# CSI-2300-project_ConnectFour
 Project Name: Connect_Four
 
 Team_name: TheBeginners
@@ -10,19 +10,9 @@ The reason why i want to build it is because i want to see if programing video g
 It will be useful for entertaining people and giving something people can play when bored.
 
 
-The way the game is going play out is that the player will fight against an AI on different Diffcult levels or another player to see whos the winner is or draw.
+The way that you can play the ConnectFour games is PlayerOne goes with by clicking the spot he or she want to put the disc and then playerTwo does the same thing,
+until one of them have four discs in a role.
 
-
-Plan:
-
-1st:
-I plan on building the board structure for the game. 
-
-2nd:
-I plan on working the player ability to pick their symbol(Red o or Blue o) and be able to place it on the board.
-
-3rd:
-The last thing is I plan on doing is working the AI, making sure it can place a smybol on the board and not overlapping with the player.
 
 
 Estimate of effort:
