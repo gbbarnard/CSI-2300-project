@@ -10,6 +10,7 @@ The reason why i want to build it is because i want to see if programing video g
 It will be useful for entertaining people and giving something people can play when bored.
 
 User Manual:
+
 After you start the prgram,
 Who ever is Player One goes first with playing the red disc,
 You just have to move your mouse over the row you want to put disc in then the disc will drop to the lowest column that doesn't already have a disc.
